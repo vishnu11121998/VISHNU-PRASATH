@@ -1,4 +1,4 @@
-# pattern 4
+# pattern 5
 
 #   5 4 3 2 1
 #   5 4 3 2 1
